@@ -1,0 +1,10 @@
+E:\Users\kobet\Documents\GitHub\Q42.HueApi\src\Q42.HueApi\bin\Debug\net45\Q42.HueApi.dll
+E:\Users\kobet\Documents\GitHub\Q42.HueApi\src\Q42.HueApi\bin\Debug\net45\Q42.HueApi.pdb
+E:\Users\kobet\Documents\GitHub\Q42.HueApi\src\Q42.HueApi\bin\Debug\net45\Newtonsoft.Json.dll
+E:\Users\kobet\Documents\GitHub\Q42.HueApi\src\Q42.HueApi\obj\Debug\net45\Q42.HueApi.csprojAssemblyReference.cache
+E:\Users\kobet\Documents\GitHub\Q42.HueApi\src\Q42.HueApi\obj\Debug\net45\Q42.HueApi.AssemblyInfoInputs.cache
+E:\Users\kobet\Documents\GitHub\Q42.HueApi\src\Q42.HueApi\obj\Debug\net45\Q42.HueApi.AssemblyInfo.cs
+E:\Users\kobet\Documents\GitHub\Q42.HueApi\src\Q42.HueApi\obj\Debug\net45\Q42.HueApi.csproj.CoreCompileInputs.cache
+E:\Users\kobet\Documents\GitHub\Q42.HueApi\src\Q42.HueApi\obj\Debug\net45\Q42.HueApi.csproj.CopyComplete
+E:\Users\kobet\Documents\GitHub\Q42.HueApi\src\Q42.HueApi\obj\Debug\net45\Q42.HueApi.dll
+E:\Users\kobet\Documents\GitHub\Q42.HueApi\src\Q42.HueApi\obj\Debug\net45\Q42.HueApi.pdb

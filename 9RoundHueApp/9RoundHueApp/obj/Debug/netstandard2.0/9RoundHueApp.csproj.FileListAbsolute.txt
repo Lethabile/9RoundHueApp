@@ -1,0 +1,14 @@
+E:\GitRepos\9RoundHueApp\9RoundHueApp\9RoundHueApp\obj\Debug\netstandard2.0\9RoundHueApp.csprojAssemblyReference.cache
+E:\GitRepos\9RoundHueApp\9RoundHueApp\9RoundHueApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+E:\GitRepos\9RoundHueApp\9RoundHueApp\9RoundHueApp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+E:\GitRepos\9RoundHueApp\9RoundHueApp\9RoundHueApp\obj\Debug\netstandard2.0\9RoundHueApp.AssemblyInfoInputs.cache
+E:\GitRepos\9RoundHueApp\9RoundHueApp\9RoundHueApp\obj\Debug\netstandard2.0\9RoundHueApp.AssemblyInfo.cs
+E:\GitRepos\9RoundHueApp\9RoundHueApp\9RoundHueApp\bin\Debug\netstandard2.0\9RoundHueApp.deps.json
+E:\GitRepos\9RoundHueApp\9RoundHueApp\9RoundHueApp\bin\Debug\netstandard2.0\9RoundHueApp.dll
+E:\GitRepos\9RoundHueApp\9RoundHueApp\9RoundHueApp\bin\Debug\netstandard2.0\ref\9RoundHueApp.dll
+E:\GitRepos\9RoundHueApp\9RoundHueApp\9RoundHueApp\bin\Debug\netstandard2.0\9RoundHueApp.pdb
+E:\GitRepos\9RoundHueApp\9RoundHueApp\9RoundHueApp\obj\Debug\netstandard2.0\9RoundHueApp.dll
+E:\GitRepos\9RoundHueApp\9RoundHueApp\9RoundHueApp\obj\Debug\netstandard2.0\ref\9RoundHueApp.dll
+E:\GitRepos\9RoundHueApp\9RoundHueApp\9RoundHueApp\obj\Debug\netstandard2.0\9RoundHueApp.pdb
+E:\GitRepos\9RoundHueApp\9RoundHueApp\9RoundHueApp\obj\Debug\netstandard2.0\9RoundHueApp.csproj.CoreCompileInputs.cache
+E:\GitRepos\9RoundHueApp\9RoundHueApp\9RoundHueApp\obj\Debug\netstandard2.0\XamlC.stamp

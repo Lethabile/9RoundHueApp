@@ -1,0 +1,9 @@
+E:\Users\kobet\Documents\GitHub\Q42.HueApi\src\Q42.HueApi\bin\Debug\netstandard2.0\Q42.HueApi.deps.json
+E:\Users\kobet\Documents\GitHub\Q42.HueApi\src\Q42.HueApi\bin\Debug\netstandard2.0\Q42.HueApi.dll
+E:\Users\kobet\Documents\GitHub\Q42.HueApi\src\Q42.HueApi\bin\Debug\netstandard2.0\Q42.HueApi.pdb
+E:\Users\kobet\Documents\GitHub\Q42.HueApi\src\Q42.HueApi\obj\Debug\netstandard2.0\Q42.HueApi.csprojAssemblyReference.cache
+E:\Users\kobet\Documents\GitHub\Q42.HueApi\src\Q42.HueApi\obj\Debug\netstandard2.0\Q42.HueApi.AssemblyInfoInputs.cache
+E:\Users\kobet\Documents\GitHub\Q42.HueApi\src\Q42.HueApi\obj\Debug\netstandard2.0\Q42.HueApi.AssemblyInfo.cs
+E:\Users\kobet\Documents\GitHub\Q42.HueApi\src\Q42.HueApi\obj\Debug\netstandard2.0\Q42.HueApi.csproj.CoreCompileInputs.cache
+E:\Users\kobet\Documents\GitHub\Q42.HueApi\src\Q42.HueApi\obj\Debug\netstandard2.0\Q42.HueApi.dll
+E:\Users\kobet\Documents\GitHub\Q42.HueApi\src\Q42.HueApi\obj\Debug\netstandard2.0\Q42.HueApi.pdb
